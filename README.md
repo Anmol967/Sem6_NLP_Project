@@ -9,3 +9,6 @@ In topic modelling, Latent Dirichlet Allocation (LDA) models have been used - LD
 
 Both the approaches can be used and compared. Either one of them can be used finally or better, both can be used together. The predicted tags can be used to filter the topics and the user can get a more descriptive tag, so like instead of just **python** tag getting predicted something like **python - TypeError** would be more helpful. 
 
+Link to Kaggle dataset - https://www.kaggle.com/datasets/stackoverflow/stacksample
+
+To run the streamlit app, just open up the terminal in the folder that contains the streamlit app python file and execute the command - **streamlit run streamlit_tag_pred_app.py**
